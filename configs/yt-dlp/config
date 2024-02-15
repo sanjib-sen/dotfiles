@@ -1,0 +1,7 @@
+-o ~/Videos/YouTube/%(title)s.%(ext)s
+
+--write-subs
+
+--write-auto-subs
+
+--trim-filenames 200
